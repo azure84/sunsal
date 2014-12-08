@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		14691310E84C2DFFD51C4620 /* libPods-Sunsal.a in Frameworks */ = {isa = PBXBuildFile; fileRef = AA1C3DBA2A433E4BA4B0D6CE /* libPods-Sunsal.a */; };
-		7376EF471A10DC550052D94E /* AlbumManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7376EF461A10DC550052D94E /* AlbumManager.swift */; };
 		7376EF491A10DE4E0052D94E /* codershigh.json in Resources */ = {isa = PBXBuildFile; fileRef = 7376EF481A10DE4E0052D94E /* codershigh.json */; };
 		737DB3861A0B91B500F6B061 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 737DB3851A0B91B500F6B061 /* AppDelegate.swift */; };
 		737DB38B1A0B91B500F6B061 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 737DB3891A0B91B500F6B061 /* Main.storyboard */; };
@@ -17,6 +16,7 @@
 		737DB39C1A0B91B500F6B061 /* SunsalTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 737DB39B1A0B91B500F6B061 /* SunsalTests.swift */; };
 		737DB3AD1A0B962700F6B061 /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 737DB3AC1A0B962700F6B061 /* MainViewController.swift */; };
 		737DB3AF1A0BA1CF00F6B061 /* OnlineJudgeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 737DB3AE1A0BA1CF00F6B061 /* OnlineJudgeViewController.swift */; };
+		BCBE29791A35BD3F00D7CC1B /* AlbumManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7376EF461A10DC550052D94E /* AlbumManager.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -284,7 +284,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				737DB3AF1A0BA1CF00F6B061 /* OnlineJudgeViewController.swift in Sources */,
-				7376EF471A10DC550052D94E /* AlbumManager.swift in Sources */,
+				BCBE29791A35BD3F00D7CC1B /* AlbumManager.swift in Sources */,
 				737DB3861A0B91B500F6B061 /* AppDelegate.swift in Sources */,
 				737DB3AD1A0B962700F6B061 /* MainViewController.swift in Sources */,
 			);
