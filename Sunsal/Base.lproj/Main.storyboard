@@ -127,6 +127,7 @@
                         <outlet property="actionSheetCell" destination="Tgl-FA-vLG" id="FAn-rI-D7W"/>
                         <outlet property="alertCell" destination="RYH-3B-74N" id="JbQ-Cd-xTX"/>
                         <outlet property="hudCell" destination="Os8-qR-Oqs" id="HTq-mD-yTt"/>
+                        <outlet property="photoViewCell" destination="irh-x5-nCe" id="CqZ-Vz-DPr"/>
                     </connections>
                 </tableViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="PrS-TK-y5Q" userLabel="First Responder" sceneMemberID="firstResponder"/>
